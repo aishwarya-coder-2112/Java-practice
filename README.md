@@ -1,18 +1,44 @@
-# My First GitHub Repository 👋
+# Java Basics ☕
 
-Hi! I am learning GitHub and programming.
+Hi! This repository contains my complete Java learning journey and practice programs.
 
-## About Me
-- Learning Full-stack development + Cybersecurity foundation 
+## Topics Covered
+- Variables & Data Types
+- Input / Output
+- Operators
+- Conditional Statements
+- Loops
+- Functions / Methods
+- Arrays
+- Strings
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- Collections Framework
+- File Handling
+- Basic DSA using Java
+
+## Programs Included
+This repository contains:
+- Beginner Java programs
+- Logic building exercises
+- Practice problems
+- Mini projects
+
+## Tools & Technologies
 - Java
-- python
-- c++
-- DSA
-- linux basics
-- Frontend/backend learning
-- From Chennai, India
+- VS Code
+- Git & GitHub
 
-## Purpose of this Repo
-This repo is created for practice and learning Git & GitHub basics.
+## Purpose of this Repository
+This repository is created to:
+- Practice Java programming
+- Improve problem-solving skills
+- Track my learning progress
+- Build consistency in coding
+
+## Author
+Aishwarya  
+B.Tech CSE (Cybersecurity)
 
 Thank you for visiting 😊
+
